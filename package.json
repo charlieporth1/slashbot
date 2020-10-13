@@ -27,7 +27,7 @@
     "morgan": "^1.5.2",
     "npm": "^2.7.4",
     "slack-client": "^1.4.0",
-    "superagent": "^1.1.0"
+    "superagent": "^6.1.0"
   },
   "devDependencies": {
     "mocha": "^2.2.1",
